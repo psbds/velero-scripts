@@ -1,0 +1,1 @@
+FROM psbds/dev-container-aks:v1.3.0
